@@ -3,6 +3,9 @@ Solved programming exercises from the Advanced Machine Learning specialization b
 
 **NOTE**: For reference purpose only. Use only if you get stuck really bad. Try to do mostly by yourself, it helps in the long run ;-).
 
+# Table of Contents
+-----
+
 ## [Course 1: Introduction To Deep Learning](../master/Intro%20to%20Deep%20Learning)
   - **[Week 1](../master/Intro%20to%20Deep%20Learning/Week%201)**
     * Programming Assignment: [Linear models and optimization](../master/Intro%20to%20Deep%20Learning/Week%201/week01_pa.ipynb)
