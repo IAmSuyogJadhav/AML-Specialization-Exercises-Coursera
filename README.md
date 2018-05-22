@@ -1,7 +1,7 @@
 # AML-Specialization-Exercises-Coursera
 Solved programming exercises from the Advanced Machine Learning specialization by National Research University on Coursera.
 
-**NOTE**: For reference purpose only. Use only if you get stuck really bad. Try to do mostly by yourself, it helps in the long run ;-).
+**NOTE**: For reference purpose only. Use only if you get stuck really bad. Try to do mostly by yourself, it helps in the long run.
 
 # Table of Contents
 
@@ -20,5 +20,6 @@ Solved programming exercises from the Advanced Machine Learning specialization b
     * (Optional) Honors Programming Assignment: [Generative Adversarial Networks](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Intro%20to%20Deep%20Learning/Week%204/Adversarial-task.ipynb)
   - **[Week 5](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Intro%20to%20Deep%20Learning/Week%205)**
     * Programming Assignment: [Generating Names with RNNs](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Intro%20to%20Deep%20Learning/Week%205/RNN-task.ipynb)
+  - **[Week 6](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Intro%20to%20Deep%20Learning/Week%206)**
+    * Final Project: [Image Captioning](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Intro%20to%20Deep%20Learning/Week%206/week6_final_project_image_captioning_clean.ipynb)
 ------
-_The remaining notebooks will be added soon. Stay tuned._
