@@ -23,3 +23,10 @@ Solved programming exercises from the Advanced Machine Learning specialization b
   - **[Week 6](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Intro%20to%20Deep%20Learning/Week%206)**
     * Final Project: [Image Captioning](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Intro%20to%20Deep%20Learning/Week%206/week6_final_project_image_captioning_clean.ipynb)
 ------
+
+## [Course 2: How to Win a Data Science Competition: Learn from Top Kagglers](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Competitive%20Data%20Science)
+  - **[Week 1](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Competitive%20Data%20Science/Week%201)**
+    * Programming Assignment: [Pandas Basics](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Competitive%20Data%20Science/Week%201/PandasBasics.ipynb)
+------
+
+_The remaining notebooks will be added soon. Stay tuned._
