@@ -27,10 +27,8 @@ Solved programming exercises from the Advanced Machine Learning specialization b
 ## [Course 2: How to Win a Data Science Competition: Learn from Top Kagglers](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Competitive%20Data%20Science)
   - **[Week 1](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Competitive%20Data%20Science/Week%201)**
     * Programming Assignment: [Pandas Basics](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Competitive%20Data%20Science/Week%201/PandasBasics.ipynb)
-
   - **[Week 2](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Competitive%20Data%20Science/Week%202)**
     * Programming Assignment: [Data Leakages](https://github.com/IAmSuyogJadhav/AML-Specialization-Exercises-Coursera/tree/master/Competitive%20Data%20Science/Week%202/Data_leakages.ipynb)
-
 ------
 
 _The remaining notebooks will be added soon. Stay tuned._
