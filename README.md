@@ -37,4 +37,4 @@ Solved programming exercises from the Advanced Machine Learning specialization b
 
 ------
 
-_The remaining notebooks will be added soon. Stay tuned._
+_The remaining notebooks will be added soon. Stay tuned for updates. _
